@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.gris{
+    background-color:grey;
+    width:70px;
+    height:70px;
+    display:inline-block;
+}
+.negro{
+    background-color:black;
+    width:70px;
+    height:70px;
+    display:inline-block;
+}
+.row{
+	margin-bottom:-4px;
+}
